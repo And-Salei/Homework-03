@@ -1,0 +1,36 @@
+h1 {font: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    color: white; 
+    text-shadow: 0px 0px 6px white;
+}
+h4 {font: unset; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px 
+}
+body {background: linear-gradient(125deg, rgb(54,81,217), rgb(207,56,148));
+    width: 600px;
+    margin: auto;
+}
+p {text-align: justify;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.on {color: white;
+    background: blue;
+    border-radius: 7px;
+    border: 10px dotted blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.ln {color:white;
+    background: orange;
+    border-radius: 7px;
+    border: 10px solid orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
